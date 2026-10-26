@@ -32,6 +32,6 @@ I'm looking for **embodied AI** roles starting 2027 (algorithm / simulation / ev
 
 ## Contact
 
-🌐 [Portfolio](https://terrybtf.github.io/Terry-Zhang.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/terry-ruifang-zhang/) · ✉️ zhangruifang0913@outlook.com
+🌐 [Portfolio](https://terrybtf.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/terry-ruifang-zhang/) · ✉️ zhangruifang0913@outlook.com
 
 <sub>中文简介：TU Delft 机器人硕士（2027.07 毕业），研究世界模型 + 强化学习用于机械臂操作；此前在 Porsche、Ford 做了约 6 年 ADAS，方向是传感器融合、评测和实车测试。正在寻找具身智能方向的算法、仿真、评测、数据岗位。</sub>
