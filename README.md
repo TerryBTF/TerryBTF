@@ -6,14 +6,14 @@ Before that: ~6 years in automotive ADAS at **Porsche China** and **Ford**, cove
 ## What I'm working on
 
 - **M.Sc. thesis: World-Action Model for a soft tendon-driven arm.** The goal is grasping in clutter without disturbing nearby objects.
-  GPU-parallel simulation with NVIDIA Newton/Warp + Isaac Lab → PPO grasping policies → RL-generated labeled data to train the WAM → sim-to-real.
+  GPU-parallel simulation with NVIDIA Newton/Warp + Isaac Lab → RL grasping policies → RL-generated labeled data to train the WAM → sim-to-real.
 - **WBCD 2026 (ICRA competition):** bimanual T-shirt manipulation, with demo collection, an action-chunk policy and human-intervention fine-tuning.
 
 ## Background
 
 | | |
 |---|---|
-| 🤖 Robot learning | RL (PPO), imitation learning, world models, VLA |
+| 🤖 Robot learning | RL, imitation learning, world models, VLA |
 | 🧪 Simulation | Isaac Lab, NVIDIA Warp / Newton, PyBullet, Gazebo |
 | 🚗 From ADAS | Sensor fusion & localization benchmarking, scenario definition, data collection, evaluation metrics, HIL & vehicle testing |
 | 🛠 Stack | Python, C++, PyTorch, ROS2, Linux |
